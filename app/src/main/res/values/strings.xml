@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InnofiedAssignment</string>
+    <string name="user_list_title">User List</string>
+    <string name="no_internet">No Internet</string>
+    <string name="no_internet_connection">No internet connection. Please connect to wifi or mobile data to load the user list.</string>
+    <string name="error_while_loading_data">Getting technical difficulty. Try again later.</string>
+</resources>
